@@ -14,6 +14,7 @@ hs_err_pid*
 
 # IDE-Specified settings
 .idea
+*.iml
 
 # build target path
 target/**
